@@ -86,6 +86,9 @@
         <p><br /> <br /> <br /> <br /></p>
         <p> <br> <br> <br> <br> <font size="16">Professional Poker</font>
 
+
+</body>
+</html>
 # Interesting Projects<br>
 Full code in section below
 
@@ -219,17 +222,4 @@ Full code in section below
 </footer>
 <!-- /footer -->
 
-<!-- jQuery -->
-<script src="plugins/jQuery/jquery.min.js"></script>
-<!-- Bootstrap JS -->
-<script src="plugins/bootstrap/bootstrap.min.js"></script>
-<!-- slick slider -->
-<script src="plugins/slick/slick.min.js"></script>
-<!-- filter -->
-<script src="plugins/shuffle/shuffle.min.js"></script>
 
-<!-- Main Script -->
-<script src="js/script.js"></script>
-
-</body>
-</html>
